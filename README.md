@@ -2,3 +2,4 @@
 First fullstack project, intended as a learning experience.
 React front end,  Node-Express API, Cron worker to fetch data, Simple filtering algorithm, Redis + node-redis.
 Will continue to improve/play with front end 
+Made with help from tutorial
